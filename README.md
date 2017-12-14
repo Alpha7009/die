@@ -1,1 +1,1 @@
-# die.com
+# die.github.io
